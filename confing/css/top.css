@@ -3,8 +3,23 @@ header{
 }
 
 body {
-  background-color:rgb(236, 237, 238);
+  background-color:rgb(0, 3, 6);
   }
+article h1 {
+  color:#cdc5c5;
+}
+
+section h2 {
+  color:#ffffff
+}
+
+section p {
+  color:#ffffff
+}
+
+footer{
+  color:#ffffff
+}
 
   .menu-btn {
     position: fixed;
